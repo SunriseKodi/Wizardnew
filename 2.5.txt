@@ -1,8 +1,8 @@
 id="plugin.program.sunrisewizard" version="1.0.2"
 
 
-name="Sunrise2.5" version="0.2.4" 
-url="https://archive.org/download/v0.2.4/v0.2.4.zip" gui="http://" kodi="18.3" theme="http://" 
+name="Sunrise2.5" version="0.2.5" 
+url="https://archive.org/download/update-2.5/update%202.5.zip" gui="http://" kodi="18.3" theme="http://" 
 icon="https://archive.org/download/sunrise-over-the-ocean1/sunrise-over-the-ocean1.png" 
 fanart="https://archive.org/download/fanart_20190628/fanart.png" 
 preview="http://sunrise" adult="no" description="sunrise"
